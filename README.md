@@ -1,5 +1,5 @@
 # Social-Login-With-Hapi
-The source code provided is an example of how to setup social login functinoality into your node application. 
+The source code provided is an example of how to setup social login functionality into your node application. 
 
 # Dependencies
 The backend will use the following technologies and frameworks:
@@ -9,7 +9,7 @@ The backend will use the following technologies and frameworks:
   - [Node-Bell](https://github.com/hapijs/bell)
 
 # Documentation
-You can find the blog article related to thisc code here [social-login-with-hapi](http://blog.itproven.com/technology/nodejs/social-login-with-hapi/).
+You can find the blog article related to this code here [social-login-with-hapi](http://blog.itproven.com/technology/nodejs/social-login-with-hapi/).
 
 License
 =========
